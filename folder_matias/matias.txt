@@ -1,1 +1,1 @@
-select*frontclientes
+select * from clientes
